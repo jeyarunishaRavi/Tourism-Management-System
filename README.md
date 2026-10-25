@@ -102,10 +102,10 @@ tourism-management-system/
 ├── Database/
 │   └── Tourism_Database.sql
 ├── Screenshots/
-│   ├── login.png
-│   ├── admin-dashboard.png
-│   ├── tour-package.png
-│   └── booking.png
+│   ├── login.jpeg
+│   ├── admin-dashboard.jpeg
+│   ├── tour-package.jpeg
+│   └── booking.jpeg
 └── README.md
 
 The structure shown above is an example. Update it to match the actual files and folders in your repository.
